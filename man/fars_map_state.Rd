@@ -26,3 +26,4 @@ Draws the location of accidents in given state for a given year
     fars_map_state(6, 2013)
   }
 }
+
