@@ -22,3 +22,4 @@ Reads a file in table format and creates a data frame table from it.
   fars_read("accident_2013.csv.bz2")
 }
 }
+
